@@ -1,0 +1,13 @@
+.heading{
+    background-color: red;
+    color: white;
+}
+
+.card-header{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.employee-card{
+    margin: 20px;
+}
