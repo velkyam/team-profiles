@@ -4,13 +4,9 @@
 ## Description
 The goal of this project was to generate a webpage with information about my team. Each team member entered into the application has its own employee card with name, id, role, email, and (github, school, or office number), as well as appropriate icon. The application was built through test driven development and object oriented programming.
 
+## [Link to walkthrough video](https://youtu.be/LHDwnzxTw0Y)
 
 <img src="./images/screen.png" alt="myteam_screenshot" width="500"/>
-
-
-## [Link to video:](https://youtu.be/LHDwnzxTw0Y)
-
-https://youtu.be/LHDwnzxTw0Y
 
 
 
